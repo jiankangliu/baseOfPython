@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" filepath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/02_Python官方文档.iml" filepath="$PROJECT_DIR$/.idea/02_Python官方文档.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/51job-master/.idea/51job-master.iml" filepath="$USER_HOME$/Desktop/51job-master/.idea/51job-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/python_spider_jobs-master/.idea/python_spider_jobs-master.iml" filepath="$USER_HOME$/Desktop/python_spider_jobs-master/.idea/python_spider_jobs-master.iml" />
+    </modules>
+  </component>
+</project>

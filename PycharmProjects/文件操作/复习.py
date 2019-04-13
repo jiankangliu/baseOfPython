@@ -1,0 +1,6 @@
+f = open('11.txt', 'w')
+f.write('liu')
+f.close()
+f = open('11.txt')
+content = f.readlines()
+print(content)

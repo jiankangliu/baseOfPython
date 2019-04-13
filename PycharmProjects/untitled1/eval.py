@@ -1,0 +1,12 @@
+a="123"
+b="12.3"
+c="[1,2,3]"
+d="(1,2,3)"
+e="{1,2}"
+f="{'name':'Tom','age':18}"
+print(type(eval(a)))
+print(type(eval(b)))
+print(type(eval(c)))
+print(type(eval(d)))
+print(type(eval(e)))
+print(type(eval(f)))
